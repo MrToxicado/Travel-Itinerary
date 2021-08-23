@@ -1,6 +1,6 @@
 var i = 0;
             var txt = 'Welcome to Tour-1';
-            var speed = 1000;
+            var speed = 1500;
 
             function typeWriter() {
                   if (i < txt.length) {
