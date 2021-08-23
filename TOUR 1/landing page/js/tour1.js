@@ -1,6 +1,6 @@
 var i = 0;
             var txt = 'Welcome to Tour-1';
-            var speed = 300;
+            var speed = 400;
 
             function typeWriter() {
                   if (i < txt.length) {
@@ -12,7 +12,7 @@ var i = 0;
 window.onload=timeout;
 function timeout()
 {
-      window.setTimeout("redirect()",350);
+      window.setTimeout("redirect()",600);
 }
 function redirect()
 {
