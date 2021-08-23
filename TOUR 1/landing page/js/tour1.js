@@ -12,7 +12,7 @@ var i = 0;
 window.onload=timeout;
 function timeout()
 {
-      window.setTimeout("redirect()",50000);
+      window.setTimeout("redirect()",300);
 }
 function redirect()
 {
